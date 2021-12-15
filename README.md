@@ -13,4 +13,5 @@ npm install
 npm run serve
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/1215/203538_495a2eec_7724572.png "屏幕截图.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/1215/203556_d708e0f8_7724572.png "屏幕截图.png")
-![![输入图片说明](https://images.gitee.com/uploads/images/2021/1215/203640_1b881f75_7724572.png "屏幕截图.png")](https://images.gitee.com/uploads/images/2021/1215/203622_7202f507_7724572.png "屏幕截图.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2021/1215/203640_1b881f75_7724572.png "屏幕截图.png")
+![输入图片说明](image.png)
